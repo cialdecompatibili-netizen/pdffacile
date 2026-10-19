@@ -1,6 +1,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "Strumenti"
+    url: /strumenti/
   - title: "Piani"
     url: /servizi/
   - title: "Pre-ordina"
