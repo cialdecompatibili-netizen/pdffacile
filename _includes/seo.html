@@ -84,8 +84,8 @@
 
 {%- comment -%} Dati strutturati: azienda in home, servizio nelle pagine servizi {%- endcomment -%}
 {% if page.url == '/' %}
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"ScalaHost","url":"{{ site.url }}/","description":{{ site.description | jsonify }}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"PDFFacile","url":"{{ site.url }}/","description":{{ site.description | jsonify }}}</script>
 {% endif %}
 {% if page.collection == 'servizi' %}
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":{{ page.title | jsonify }},"description":{{ page.seo_description | default: page.description | jsonify }},"url":"{{ page.url | absolute_url }}","provider":{"@type":"Organization","name":"ScalaHost","url":"{{ site.url }}/"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":{{ page.title | jsonify }},"description":{{ page.seo_description | default: page.description | jsonify }},"url":"{{ page.url | absolute_url }}","provider":{"@type":"Organization","name":"PDFFacile","url":"{{ site.url }}/"}}</script>
 {% endif %}

@@ -3,8 +3,8 @@ layout: single
 title: "Piani"
 permalink: /servizi/
 author_profile: false
-seo_title: "Piani server di gioco, VPS e hosting | ScalaHost"
-seo_description: "Tutti i piani ScalaHost: server Minecraft, Palworld, Rust, ARK, FiveM, VPS Linux, WordPress gestito e server dedicati."
+seo_title: "Piani Premium, Team e API PDF | PDFFacile"
+seo_description: "Tutti i piani PDFFacile: Pro, Team e API PDF. Gli strumenti base sono gratuiti."
 classes: wide
 ---
 

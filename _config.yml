@@ -1,17 +1,17 @@
 related_posts: 3
-title: ScalaHost
+title: PDFFacile
 baseurl: "/pdffacile"
 url: "https://cialdecompatibili-netizen.github.io"
 email: ""
-description: "ScalaHost: server di gioco, VPS e hosting a canone mensile. Minecraft, Palworld, Rust, ARK, FiveM, WordPress gestito. Pre-ordina senza pagamento anticipato."
-footer_text: "&copy; 2026 ScalaHost"
+description: "PDFFacile: strumenti PDF gratuiti nel browser (unisci, dividi, ruota, da immagini a PDF), piani Premium e API PDF. File che non lasciano il tuo computer."
+footer_text: "&copy; 2026 PDFFacile"
 minimal_mistakes_skin: default
 search: true
 
 # SEO globale
 author:
-  name: "ScalaHost"
-  bio: "Server di gioco, VPS e hosting a canone mensile. Pre-ordina il tuo piano."
+  name: "PDFFacile"
+  bio: "Strumenti PDF gratuiti, Premium e API. Pre-ordina il tuo piano."
   links:
     - label: "Scrivici"
       icon: "fas fa-fw fa-envelope"
