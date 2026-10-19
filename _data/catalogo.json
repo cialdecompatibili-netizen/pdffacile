@@ -1,0 +1,279 @@
+{
+  "_nota": "PIANI SERVER (pre-ordine, nessun pagamento). Prezzi mensili in centesimi. Fonte UNICA di /negozio/ e delle pagine piano. L'id \"categoria\" e' riservato.",
+  "categorie": [
+    {
+      "id": "game",
+      "nome": "Server di gioco",
+      "icona": "🎮"
+    },
+    {
+      "id": "vps",
+      "nome": "VPS Linux",
+      "icona": "🖥️"
+    },
+    {
+      "id": "web",
+      "nome": "Web hosting e app",
+      "icona": "🌐"
+    },
+    {
+      "id": "dedicati",
+      "nome": "Server dedicati",
+      "icona": "🏢"
+    }
+  ],
+  "prodotti": [
+    {
+      "id": "mc-2gb",
+      "nome": "Minecraft 2 GB",
+      "descrizione": "Server Minecraft per gruppi di amici, fino a circa 10 giocatori.",
+      "categoria": "game",
+      "icona": "⛏️",
+      "tipo": "digitale",
+      "prezzo_centesimi": 499,
+      "descrizione_completa": "Server Minecraft per gruppi di amici, fino a circa 10 giocatori.\n2 GB RAM, Java e Bedrock, mod e plugin (Paper, Spigot, Forge, Fabric), backup, pannello web.\nPrezzo mensile, senza vincolo. Pre-ordine: nessun pagamento ora, ti scriviamo quando il server è pronto.",
+      "immagine": "",
+      "visibile": true
+    },
+    {
+      "id": "mc-4gb",
+      "nome": "Minecraft 4 GB",
+      "descrizione": "Server Minecraft per community piccole e modpack leggeri.",
+      "categoria": "game",
+      "icona": "⛏️",
+      "tipo": "digitale",
+      "prezzo_centesimi": 899,
+      "descrizione_completa": "Server Minecraft per community piccole e modpack leggeri.\n4 GB RAM, Java e Bedrock, mod e plugin, backup, pannello web.\nPrezzo mensile, senza vincolo. Pre-ordine: nessun pagamento ora, ti scriviamo quando il server è pronto.",
+      "immagine": "",
+      "visibile": true
+    },
+    {
+      "id": "mc-8gb",
+      "nome": "Minecraft 8 GB",
+      "descrizione": "Server Minecraft per modpack pesanti e community medie.",
+      "categoria": "game",
+      "icona": "⛏️",
+      "tipo": "digitale",
+      "prezzo_centesimi": 1599,
+      "descrizione_completa": "Server Minecraft per modpack pesanti e community medie.\n8 GB RAM, Java e Bedrock, mod e plugin, backup, pannello web.\nPrezzo mensile, senza vincolo. Pre-ordine: nessun pagamento ora, ti scriviamo quando il server è pronto.",
+      "immagine": "",
+      "visibile": true
+    },
+    {
+      "id": "mc-16gb",
+      "nome": "Minecraft 16 GB",
+      "descrizione": "Server Minecraft per grandi community e network.",
+      "categoria": "game",
+      "icona": "⛏️",
+      "tipo": "digitale",
+      "prezzo_centesimi": 2899,
+      "descrizione_completa": "Server Minecraft per grandi community e network.\n16 GB RAM, Java e Bedrock, mod e plugin, backup, pannello web.\nPrezzo mensile, senza vincolo. Pre-ordine: nessun pagamento ora, ti scriviamo quando il server è pronto.",
+      "immagine": "",
+      "visibile": true
+    },
+    {
+      "id": "palworld-16",
+      "nome": "Palworld 16 GB",
+      "descrizione": "Server dedicato Palworld per te e i tuoi amici.",
+      "categoria": "game",
+      "icona": "🐾",
+      "tipo": "digitale",
+      "prezzo_centesimi": 1699,
+      "descrizione_completa": "Server dedicato Palworld per te e i tuoi amici.\n16 GB RAM, impostazioni di gioco da pannello, backup, riavvio programmato.\nPrezzo mensile, senza vincolo. Pre-ordine: nessun pagamento ora, ti scriviamo quando il server è pronto.",
+      "immagine": "",
+      "visibile": true
+    },
+    {
+      "id": "palworld-32",
+      "nome": "Palworld 32 GB",
+      "descrizione": "Server Palworld per community numerose.",
+      "categoria": "game",
+      "icona": "🐾",
+      "tipo": "digitale",
+      "prezzo_centesimi": 2999,
+      "descrizione_completa": "Server Palworld per community numerose.\n32 GB RAM, impostazioni di gioco da pannello, backup, riavvio programmato.\nPrezzo mensile, senza vincolo. Pre-ordine: nessun pagamento ora, ti scriviamo quando il server è pronto.",
+      "immagine": "",
+      "visibile": true
+    },
+    {
+      "id": "rust-8gb",
+      "nome": "Rust 8 GB",
+      "descrizione": "Server Rust vanilla o con plugin.",
+      "categoria": "game",
+      "icona": "🔫",
+      "tipo": "digitale",
+      "prezzo_centesimi": 1899,
+      "descrizione_completa": "Server Rust vanilla o con plugin.\n8 GB RAM, plugin e mod, wipe programmati, pannello web.\nPrezzo mensile, senza vincolo. Pre-ordine: nessun pagamento ora, ti scriviamo quando il server è pronto.",
+      "immagine": "",
+      "visibile": true
+    },
+    {
+      "id": "rust-16gb",
+      "nome": "Rust 16 GB",
+      "descrizione": "Server Rust per community attive con molti plugin.",
+      "categoria": "game",
+      "icona": "🔫",
+      "tipo": "digitale",
+      "prezzo_centesimi": 3299,
+      "descrizione_completa": "Server Rust per community attive con molti plugin.\n16 GB RAM, plugin e mod, wipe programmati, pannello web.\nPrezzo mensile, senza vincolo. Pre-ordine: nessun pagamento ora, ti scriviamo quando il server è pronto.",
+      "immagine": "",
+      "visibile": true
+    },
+    {
+      "id": "ark-se",
+      "nome": "ARK Survival Evolved 12 GB",
+      "descrizione": "Server ARK Survival Evolved con mod e cluster.",
+      "categoria": "game",
+      "icona": "🦖",
+      "tipo": "digitale",
+      "prezzo_centesimi": 2799,
+      "descrizione_completa": "Server ARK Survival Evolved con mod e cluster.\n12 GB RAM, mod Workshop, backup, pannello web.\nPrezzo mensile, senza vincolo. Pre-ordine: nessun pagamento ora, ti scriviamo quando il server è pronto.",
+      "immagine": "",
+      "visibile": true
+    },
+    {
+      "id": "ark-asa",
+      "nome": "ARK Survival Ascended 24 GB",
+      "descrizione": "Server ARK Survival Ascended per tribù e community.",
+      "categoria": "game",
+      "icona": "🦖",
+      "tipo": "digitale",
+      "prezzo_centesimi": 4499,
+      "descrizione_completa": "Server ARK Survival Ascended per tribù e community.\n24 GB RAM, mod, backup, pannello web.\nPrezzo mensile, senza vincolo. Pre-ordine: nessun pagamento ora, ti scriviamo quando il server è pronto.",
+      "immagine": "",
+      "visibile": true
+    },
+    {
+      "id": "fivem-32",
+      "nome": "FiveM 32 slot",
+      "descrizione": "Server FiveM per roleplay e community piccole.",
+      "categoria": "game",
+      "icona": "🚗",
+      "tipo": "digitale",
+      "prezzo_centesimi": 999,
+      "descrizione_completa": "Server FiveM per roleplay e community piccole.\n32 slot, txAdmin, database incluso. Serve la tua licenza Cfx.re.\nPrezzo mensile, senza vincolo. Pre-ordine: nessun pagamento ora, ti scriviamo quando il server è pronto.",
+      "immagine": "",
+      "visibile": true
+    },
+    {
+      "id": "fivem-64",
+      "nome": "FiveM 64 slot",
+      "descrizione": "Server FiveM per community in crescita.",
+      "categoria": "game",
+      "icona": "🚗",
+      "tipo": "digitale",
+      "prezzo_centesimi": 1699,
+      "descrizione_completa": "Server FiveM per community in crescita.\n64 slot, txAdmin, database incluso. Serve la tua licenza Cfx.re.\nPrezzo mensile, senza vincolo. Pre-ordine: nessun pagamento ora, ti scriviamo quando il server è pronto.",
+      "immagine": "",
+      "visibile": true
+    },
+    {
+      "id": "fivem-128",
+      "nome": "FiveM 128 slot",
+      "descrizione": "Server FiveM per grandi community roleplay.",
+      "categoria": "game",
+      "icona": "🚗",
+      "tipo": "digitale",
+      "prezzo_centesimi": 2999,
+      "descrizione_completa": "Server FiveM per grandi community roleplay.\n128 slot, txAdmin, database incluso. Serve la tua licenza Cfx.re.\nPrezzo mensile, senza vincolo. Pre-ordine: nessun pagamento ora, ti scriviamo quando il server è pronto.",
+      "immagine": "",
+      "visibile": true
+    },
+    {
+      "id": "vps-s",
+      "nome": "VPS Linux S",
+      "descrizione": "VPS per siti, bot e piccole applicazioni.",
+      "categoria": "vps",
+      "icona": "🖥️",
+      "tipo": "digitale",
+      "prezzo_centesimi": 799,
+      "descrizione_completa": "VPS per siti, bot e piccole applicazioni.\n2 vCPU, 4 GB RAM, 80 GB NVMe, accesso root, Linux a scelta.\nPrezzo mensile, senza vincolo. Pre-ordine: nessun pagamento ora, ti scriviamo quando il server è pronto.",
+      "immagine": "",
+      "visibile": true
+    },
+    {
+      "id": "vps-m",
+      "nome": "VPS Linux M",
+      "descrizione": "VPS per applicazioni, database e ambienti di sviluppo.",
+      "categoria": "vps",
+      "icona": "🖥️",
+      "tipo": "digitale",
+      "prezzo_centesimi": 1399,
+      "descrizione_completa": "VPS per applicazioni, database e ambienti di sviluppo.\n4 vCPU, 8 GB RAM, 160 GB NVMe, accesso root, Linux a scelta.\nPrezzo mensile, senza vincolo. Pre-ordine: nessun pagamento ora, ti scriviamo quando il server è pronto.",
+      "immagine": "",
+      "visibile": true
+    },
+    {
+      "id": "vps-l",
+      "nome": "VPS Linux L",
+      "descrizione": "VPS per carichi più impegnativi e più servizi insieme.",
+      "categoria": "vps",
+      "icona": "🖥️",
+      "tipo": "digitale",
+      "prezzo_centesimi": 2699,
+      "descrizione_completa": "VPS per carichi più impegnativi e più servizi insieme.\n6 vCPU, 16 GB RAM, 320 GB NVMe, accesso root, Linux a scelta.\nPrezzo mensile, senza vincolo. Pre-ordine: nessun pagamento ora, ti scriviamo quando il server è pronto.",
+      "immagine": "",
+      "visibile": true
+    },
+    {
+      "id": "wp-start",
+      "nome": "WordPress gestito Start",
+      "descrizione": "Un sito WordPress pronto all'uso.",
+      "categoria": "web",
+      "icona": "📝",
+      "tipo": "digitale",
+      "prezzo_centesimi": 699,
+      "descrizione_completa": "Un sito WordPress pronto all'uso.\n1 sito, installazione e aggiornamenti curati da noi, certificato SSL, backup giornalieri.\nPrezzo mensile, senza vincolo. Pre-ordine: nessun pagamento ora, ti scriviamo quando il server è pronto.",
+      "immagine": "",
+      "visibile": true
+    },
+    {
+      "id": "wp-pro",
+      "nome": "WordPress gestito Pro",
+      "descrizione": "Fino a 3 siti WordPress gestiti.",
+      "categoria": "web",
+      "icona": "📝",
+      "tipo": "digitale",
+      "prezzo_centesimi": 1299,
+      "descrizione_completa": "Fino a 3 siti WordPress gestiti.\n3 siti, aggiornamenti, SSL, backup giornalieri, staging.\nPrezzo mensile, senza vincolo. Pre-ordine: nessun pagamento ora, ti scriviamo quando il server è pronto.",
+      "immagine": "",
+      "visibile": true
+    },
+    {
+      "id": "wp-business",
+      "nome": "WordPress gestito Business",
+      "descrizione": "Fino a 10 siti WordPress gestiti.",
+      "categoria": "web",
+      "icona": "📝",
+      "tipo": "digitale",
+      "prezzo_centesimi": 2499,
+      "descrizione_completa": "Fino a 10 siti WordPress gestiti.\n10 siti, aggiornamenti, SSL, backup giornalieri, staging, assistenza prioritaria.\nPrezzo mensile, senza vincolo. Pre-ordine: nessun pagamento ora, ti scriviamo quando il server è pronto.",
+      "immagine": "",
+      "visibile": true
+    },
+    {
+      "id": "app-gestita",
+      "nome": "App open source gestita",
+      "descrizione": "Nextcloud, Uptime Kuma e altre app installate e aggiornate da noi.",
+      "categoria": "web",
+      "icona": "🧩",
+      "tipo": "digitale",
+      "prezzo_centesimi": 999,
+      "descrizione_completa": "Nextcloud, Uptime Kuma e altre app installate e aggiornate da noi.\nInstallazione, aggiornamenti, backup e dominio collegato.\nPrezzo mensile, senza vincolo. Pre-ordine: nessun pagamento ora, ti scriviamo quando il server è pronto.",
+      "immagine": "",
+      "visibile": true
+    },
+    {
+      "id": "dedicato-gestito",
+      "nome": "Server dedicato gestito",
+      "descrizione": "Server dedicato configurato e monitorato per la tua azienda (prezzo indicativo, preventivo su richiesta).",
+      "categoria": "dedicati",
+      "icona": "🏢",
+      "tipo": "digitale",
+      "prezzo_centesimi": 8900,
+      "descrizione_completa": "Server dedicato configurato e monitorato per la tua azienda (prezzo indicativo, preventivo su richiesta).\nHardware dedicato, configurazione, aggiornamenti di sicurezza, backup, monitoraggio.\nPrezzo mensile, senza vincolo. Pre-ordine: nessun pagamento ora, ti scriviamo quando il server è pronto.",
+      "immagine": "",
+      "visibile": true
+    }
+  ]
+}

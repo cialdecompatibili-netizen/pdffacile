@@ -1,0 +1,8 @@
+[
+  {
+    "id": "main",
+    "nome": "Contenuto",
+    "enabled": true,
+    "html": "<p>ScalaHost vende server di gioco, VPS e hosting a canone mensile. Partiamo da un primo nodo e aggiungiamo capacità man mano che crescono le richieste.</p><h2>Server di gioco</h2><ul><li><a href=\"__BASEURL__/servizi/minecraft-server-hosting/\">Minecraft server hosting</a></li><li><a href=\"__BASEURL__/servizi/palworld-server-hosting/\">Palworld server hosting</a></li><li><a href=\"__BASEURL__/servizi/rust-server-hosting/\">Rust server hosting</a></li><li><a href=\"__BASEURL__/servizi/ark-server-hosting/\">ARK server hosting</a></li><li><a href=\"__BASEURL__/servizi/fivem-server-hosting/\">FiveM server hosting</a></li><li><a href=\"__BASEURL__/servizi/altri-server-di-gioco/\">Altri server di gioco</a></li></ul><h2>Hosting</h2><ul><li><a href=\"__BASEURL__/servizi/vps-linux/\">VPS Linux</a></li><li><a href=\"__BASEURL__/servizi/hosting-wordpress-gestito/\">Hosting WordPress gestito</a></li><li><a href=\"__BASEURL__/servizi/app-open-source-gestite/\">App open source gestite</a></li><li><a href=\"__BASEURL__/servizi/server-dedicati-gestiti/\">Server dedicati gestiti</a></li></ul><p>Pre-ordina un piano o scrivici dalla pagina Contatti.</p>"
+  }
+]

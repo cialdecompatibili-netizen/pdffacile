@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Piani"
+    url: /servizi/
+  - title: "Pre-ordina"
+    url: /negozio/
+  - title: "Contatti"
+    url: /contatti/
